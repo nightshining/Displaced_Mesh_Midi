@@ -24,5 +24,5 @@ A software based midi controller that utilizes a 3d deformation of a mesh to con
 ![](https://github.com/nightshining/Displaced_Mesh_Midi/blob/master/assets/ui.png)
 
 
-* Now you can start using the dial knobs to change parameters on the 3d mesh to start alterning your MIDI cc + note outputs. CC's correspond to the positional data of each vertex, Note data gets triggered by a threshold of when vertex data passes specific 3d spatial areas. 
+* Now you can start using the dial knobs to change parameters on the 3d mesh to start altering your MIDI cc + note outputs. CC's correspond to the positional data of each vertex, Note data gets triggered by a threshold of when vertex data passes specific 3d spatial areas. 
 
